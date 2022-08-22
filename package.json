@@ -1,0 +1,14 @@
+{
+  "name": "inframous",
+  "version": "1.0.0",
+  "description": "A simple CLI tool to generate frameworkless frontend projects with a modern developer experience",
+  "main": "index.js",
+  "bin": {
+    "inframous": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Bernardo",
+  "license": "ISC"
+}
